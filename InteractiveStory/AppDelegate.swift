@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  InteractiveStory
 //
-//  Created by Mikhail Timofeev on 17/10/2018.
+//  Created by Artur Shamsutdinov on 17/10/2018.
 //  Copyright © 2018 rocketstorm. All rights reserved.
 //
 
