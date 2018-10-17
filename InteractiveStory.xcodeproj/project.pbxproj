@@ -12,6 +12,8 @@
 		9097ED7C2176FB33002D6B13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9097ED7A2176FB33002D6B13 /* Main.storyboard */; };
 		9097ED7E2176FB45002D6B13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9097ED7D2176FB45002D6B13 /* Assets.xcassets */; };
 		9097ED812176FB45002D6B13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9097ED7F2176FB45002D6B13 /* LaunchScreen.storyboard */; };
+		9097ED89217704E9002D6B13 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9097ED88217704E9002D6B13 /* Story.swift */; };
+		9097ED8B21770B44002D6B13 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9097ED8A21770B44002D6B13 /* Page.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		9097ED7D2176FB45002D6B13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9097ED802176FB45002D6B13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9097ED822176FB45002D6B13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9097ED88217704E9002D6B13 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		9097ED8A21770B44002D6B13 /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				9097ED7D2176FB45002D6B13 /* Assets.xcassets */,
 				9097ED7F2176FB45002D6B13 /* LaunchScreen.storyboard */,
 				9097ED822176FB45002D6B13 /* Info.plist */,
+				9097ED88217704E9002D6B13 /* Story.swift */,
+				9097ED8A21770B44002D6B13 /* Page.swift */,
 			);
 			path = InteractiveStory;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				9097ED792176FB33002D6B13 /* ViewController.swift in Sources */,
 				9097ED772176FB33002D6B13 /* AppDelegate.swift in Sources */,
+				9097ED8B21770B44002D6B13 /* Page.swift in Sources */,
+				9097ED89217704E9002D6B13 /* Story.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
